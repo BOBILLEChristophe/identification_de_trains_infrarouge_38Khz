@@ -1,7 +1,7 @@
 # Identification de trains par infrarouge 38Khz
 
+[![Vidéo](https://img.youtube.com/vi/AcKqexFbGcc/0.jpg)](https://www.youtube.com/watch?v=AcKqexFbGcc)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcKqexFbGcc?si=1SOBmrANRxXtGQQJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![illustration](img/illustration.png)
 
