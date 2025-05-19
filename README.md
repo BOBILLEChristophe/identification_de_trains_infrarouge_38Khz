@@ -1,8 +1,6 @@
 # Identification de trains par infrarouge 38Khz
 
-[![Vidéo](https://img.youtube.com/vi/AcKqexFbGcc/0.jpg)](https://www.youtube.com/watch?v=AcKqexFbGcc)
-
-![illustration](img/schema_attiny.png)
+[![Vidéo](img/youtube_player_icon.jpg)](https://www.youtube.com/watch?v=AcKqexFbGcc)
 
 ![illustration](img/ATiny_PCB.png)
 
