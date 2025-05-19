@@ -19,8 +19,8 @@
 #include <WiFiClient.h>
 
 // === Configuration Wi-Fi ===
-const char* ssid = "Livebox-BC90";
-const char* password = "V9b7qzKFxdQfbMT4Pa";
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
 
 // Adresse de Rocrail
 const char* serverIP = "192.168.1.15";  // IP du PC avec Rocrail
