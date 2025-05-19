@@ -1,3 +1,3 @@
 # Identification de trains par infrarouge 38Khz
 
-![Schéma du montage](images/schema.png)
+![illustration](img/schéma_illustration.png)
