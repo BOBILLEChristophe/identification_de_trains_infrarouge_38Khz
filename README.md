@@ -4,15 +4,16 @@
 
 ## L’ATtiny pour un émetteur à l’encombrement réduit![image](https://github.com/user-attachments/assets/6aa75eb1-fbda-41c6-a123-930d22b06310)
 
-![illustration](img/ATiny_PCB.png)
+![illustration](img/schema_attiny.png)
 
-![illustration](img/schema_nano.png)
+![illustration](img/ATiny_PCB.png)
 
 ## Un Arduino Nano pour générer le signal sur l’émetteur![image](https://github.com/user-attachments/assets/daf879a5-f321-4e39-b280-ea217d45058e)
  
+![illustration](img/schema_nano.png)
+
 ![illustration](img/Uno_PCB.png)
 
-![illustration](img/schema_TSOP.png)
 
 ## Le récepteur
 
