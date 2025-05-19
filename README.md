@@ -2,8 +2,9 @@
 
 [![Vidéo](https://img.youtube.com/vi/AcKqexFbGcc/0.jpg)](https://www.youtube.com/watch?v=AcKqexFbGcc)
 
+[![Vidéo](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=AcKqexFbGcc)
 
-![illustration](img/illustration.png)
+
 
 ![illustration](img/schema_attiny.png)
 
