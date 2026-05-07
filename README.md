@@ -1,5 +1,7 @@
 # Identification de trains par infrarouge 38Khz
 
+Voir l'article détaillé sur Locoduino : https://www.locoduino.org/spip.php?article370
+
 [![Vidéo](img/youtube_player_icon.jpg)](https://www.youtube.com/watch?v=AcKqexFbGcc)
 
 ## L’ATtiny pour un émetteur à l’encombrement réduit![image](https://github.com/user-attachments/assets/6aa75eb1-fbda-41c6-a123-930d22b06310)
